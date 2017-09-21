@@ -1,0 +1,14 @@
+{
+  "name": "gladys-calendar",
+  "version": "0.0.1",
+  "description": "Gladys hooks for calendar events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J@P",
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {
+    "foscam": "0.2.2"
+  }
+}
